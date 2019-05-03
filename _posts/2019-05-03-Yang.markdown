@@ -43,6 +43,13 @@ The first water treatment plant is located in rural area. The main infrastructur
 
 The zoom in pictures identify the sectors which affect water treatment plant. The right side shows during the hurricane, lack of energy supply effect the primary clarification section become non-operating. The left side shows the road was blocked by the fell down trees and delay the recovery . 
 
+<iframe frameborder="0" class="juxtapose" width="100%" height="650" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5bfe47f6-6dd2-11e9-8106-0edaf8f81e27"></iframe>
+The second water treatment plant is located in the coastal area near an urban area. The main infrastructure sectors effect that is energy system.
+
+![concept_image](/puerto_rico_now/images/infrastructure/SITE 2 ZOOM-01 (1).jpg)
+The zoom in pictures identify the sectors which affect the water treatment plant. During the hurricane, lack of energy supply effect the primary clarification section become non-operating. 
+
+
 
 On one end of this spectrum lie developers, investors, politicians, and citizens who view Puerto Rico as a potential tourist haven, corporate tax shelter, or both. Such individuals benefit from economic incentives to develop Puerto Rico using American capital. On the other end of the spectrum lie Puerto Ricans who draw inspiration from a rich history of collective community organization to envision an island free of the extraction practices inherent to the colony. Such a Puerto Rico is organized into collective land trusts, has a diverse economy focused on local production and reinvestment into municipalities, and engages directly with global actors.
 
