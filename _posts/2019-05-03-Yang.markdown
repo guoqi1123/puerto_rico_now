@@ -8,6 +8,8 @@ author: "Shuo Yang and Junyu Cao"
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="360" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=3c679f32-6d5f-11e9-8106-0edaf8f81e27"></iframe>
 
+<iframe frameborder="0" class="juxtapose" width="100%" height="360" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=501d5b5c-6dbe-11e9-8106-0edaf8f81e27"></iframe>
+
 <br/><br/>
 ![concept_image](/puerto_rico_now/images/infrastructure/concept.png)    
 <br/><br/>
