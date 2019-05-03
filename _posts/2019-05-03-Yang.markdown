@@ -20,7 +20,7 @@ Puerto Ricans no longer trust water after Hurricane Maria. “The water comes ou
 <br/><br/>
 Damage to Puerto Rico was severe and widespread following the Hurricane, with heavy rainfall, flooding, storm surge, and high winds causing considerable damage. According to the FEMA, Hurricane Maria knocked out water service for about half of the island’s residents. Wastewater treatment plants were damaged, and so were many of Puerto Rico’s 114 drinking water treatment plants. More than a third of sewage treatment plants were inoperational after the hurricane, said the Environmental Protection Agency in October. This led to raw sewage appearing in water used for residential needs like cooking and bathing. Up to 50% of the population had no access to clean drinking water. 
 
-<span style="font-family:Helvetica; font-size:1em;">*Puerto Rico’s Water System Is Almost Fully Operational Finally, some good news about post-Hurricane Maria Puerto Rico.Ayana Byrd JUN 28, 2018 2:25PM EDT / “Hurricanes Nate, Maria, Irma, and Harvey Situation Reports.”, Situation Report, United States Department of Energy, Infrastructure Security and Energy Restoration (2017)*</span>
+<font size="1" color="red">*Puerto Rico’s Water System Is Almost Fully Operational Finally, some good news about post-Hurricane Maria Puerto Rico.Ayana Byrd JUN 28, 2018 2:25PM EDT / “Hurricanes Nate, Maria, Irma, and Harvey Situation Reports.”, Situation Report, United States Department of Energy, Infrastructure Security and Energy Restoration (2017)*</font>
 
 
 
