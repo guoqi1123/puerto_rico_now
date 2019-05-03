@@ -2,7 +2,7 @@
 layout: post
 date:   2019-05-03
 image: "/puerto_rico_now/images/water_infra/thumbnail.png"
-title:  "Puerto Rico After Maria: Prediction of Future Scenario"
+title:  "Water infrastructure and the relationship with other infrastructure"
 author: "Shuo Yang and Junyu Cao"
 ---
 
