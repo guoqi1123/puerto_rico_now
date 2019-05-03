@@ -6,37 +6,44 @@ title:  "Water infrastructure and the relationship with other infrastructure"
 author: "Shuo Yang and Junyu Cao"
 ---
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="700" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=890034c0-6dc9-11e9-8106-0edaf8f81e27"></iframe>
-
 ![concept_image](/puerto_rico_now/images/infrastructure/concept.png)    
 <br/><br/>
 <br/><br/>
-<span style="font-family:Helvetica; font-size:2em;">**1.Introduction**</span>
+<span style="font-family:Helvetica; font-size:2em;">**Introduction**</span>
 
 Puerto Ricans no longer trust water after Hurricane Maria. “The water comes out of the tap white, and sometimes dark and dirty, with particles in it.” Marta Rivera said, who lives in the city of Arecibo and she blamed her illness on water contaminated by the hurricane. The water quality of Puerto Rico still was inconsistent ten months after hurricane Maira, the inefficient recovery of water quality heavily impaired Puerto Ricans life. This case study focuses on water treatment infrastructure and how other infrastructure might influence their efficiency throughout Puerto Rico.
-
 
 ![concept_image](/puerto_rico_now/images/infrastructure/3600.jpg)
 
 <br/><br/>
-<span style="font-family:Helvetica; font-size:1.5em;">**1-1.In February of 2019, Congress Approved $1.5 Billion in Relief Aid**</span>
 
-To understand what these changes may be and how Puerto Rico will be transformed, our research team began an initial investigation into the island’s ongoing demographic and economic shifts within a historical context to answer four questions:
-
-  - Who stands to profit and who stands to suffer from reconstruction efforts?
-  - Which areas are going to see the greatest change?
-  - How are these areas going to be redeveloped, and at what cost?
-  - What are the alternatives to our prediction?
+Damage to Puerto Rico was severe and widespread following the Hurricane, with heavy rainfall, flooding, storm surge, and high winds causing considerable damage. According to the FEMA, Hurricane Maria knocked out water service for about half of the island’s residents. Wastewater treatment plants were damaged, and so were many of Puerto Rico’s 114 drinking water treatment plants. More than a third of sewage treatment plants were inoperational after the hurricane, said the Environmental Protection Agency in October. This led to raw sewage appearing in water used for residential needs like cooking and bathing. Up to 50% of the population had no access to clean drinking water. 
 
 <br/><br/>
-<span style="font-family:Helvetica; font-size:1.5em;">**1-2.That Same Year, Puerto Rico Reported a Record-Breaking 1.7 Million Tourists in 2018**</span>  
 
-Though it is impossible to know the future, our team has identified multiple directions in which Puerto Rico may be headed using this data. Without loss of generality, we chose to develop and focus on two hypothetical future scenarios that favor the interests of individuals on opposite ends of a spectrum of figures who wish to see Puerto Rico prosper in different ways. In doing so, we hope to provide a specific picture of what is possible in the near future, as well as to highlight the dangerous processes underway in Puerto Rico at the present moment.
+Meanwhile, The power grid was mostly destroyed, causing a power outage for the entire population. Electrical recovery for many locations has taken months, with estimates placing 45% of the population without power three full months after the storm.  
+FEMA, along with its federal and NGO partners, have also worked closely with the respective Governors and agencies in the USVI and PR to ensure that temporary power support continues to be prioritized for critical facilities such as hospitals, police and fire stations, communications facilities, and water treatment plants. 
 
 <br/><br/>
-<span style="font-family:Helvetica; font-size:2em;">**2.Two Scenarios: A Business-Class Tourist Paradise, or an Island for the People?**</span>
+<span style="font-family:Helvetica; font-size:2em;">**2**</span>
 
-![concept photo](/puerto_rico_now/images/future_scenarios/concept_image.png)
+![concept_image](/puerto_rico_now/images/infrastructure/Wastewater_Treatment_Process_FullSize.jpg)
+
+This diagram shows how water treatment plants work. The situation of “No. 4” primary Clarifier ( sediment tank) will help us identify the functionality of the water treatment plan. 
+
+<br/><br/>  
+<span style="font-family:Helvetica; font-size:1.5em;">**2A.Exploitation and Extraction: A Scenario for Predatory Development**</span>
+
+We select three water treatment plants of different site condition to discuss what impact the efficiency and recovery of water treatment plants during and after the hurricane.
+
+<iframe frameborder="0" class="juxtapose" width="100%" height="700" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=890034c0-6dc9-11e9-8106-0edaf8f81e27"></iframe>
+
+The first water treatment plant is located in rural area. The main infrastructure effect the water treatment plant non-operational sectors that is the energy system and the transportation system.
+
+![concept_image](/puerto_rico_now/images/infrastructure/SITE1 ZOOM-01 (1).jpg)
+
+The zoom in pictures identify the sectors which affect water treatment plant. The right side shows during the hurricane, lack of energy supply effect the primary clarification section become non-operating. The left side shows the road was blocked by the fell down trees and delay the recovery . 
+
 
 On one end of this spectrum lie developers, investors, politicians, and citizens who view Puerto Rico as a potential tourist haven, corporate tax shelter, or both. Such individuals benefit from economic incentives to develop Puerto Rico using American capital. On the other end of the spectrum lie Puerto Ricans who draw inspiration from a rich history of collective community organization to envision an island free of the extraction practices inherent to the colony. Such a Puerto Rico is organized into collective land trusts, has a diverse economy focused on local production and reinvestment into municipalities, and engages directly with global actors.
 
