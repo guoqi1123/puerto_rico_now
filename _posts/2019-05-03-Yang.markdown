@@ -5,14 +5,16 @@ image: "/puerto_rico_now/images/infrastructure/thumbnail.png"
 title:  "Water infrastructure and the relationship with other infrastructure"
 author: "Shuo Yang and Junyu Cao"
 ---
+
 <iframe frameborder="0" class="juxtapose" width="100%" height="700" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=890034c0-6dc9-11e9-8106-0edaf8f81e27"></iframe>
 
 ![concept_image](/puerto_rico_now/images/infrastructure/concept.png)    
 <br/><br/>
 <br/><br/>
-<span style="font-family:Helvetica; font-size:2em;">**1.Reconstruction is Underway**</span>
+<span style="font-family:Helvetica; font-size:2em;">**1.Introduction**</span>
 
-Puerto Rico is in a state of serious change. Over a year since the devastation of Hurricanes Maria and Irma, federal disaster aid continues to be withheld by Congress, forcing recovery efforts to continue unaided by the federal government. Prior to the storms making landfall in November 2017, residents of the island had already been feeling the effects of rising unemployment, crippling debt, and exploitative development practices for several decades. In addition to the loss of over 3,000 lives, the destruction left in the wake of these storms pushed much of the island’s infrastructure and resources past capacity. For many, this disaster has been the final motivator to leave Puerto Rico. Those who remain will be the first to bear witness to dramatic changes as reconstruction properly begins.
+Puerto Ricans no longer trust water after Hurricane Maria. “The water comes out of the tap white, and sometimes dark and dirty, with particles in it.” Marta Rivera said, who lives in the city of Arecibo and she blamed her illness on water contaminated by the hurricane. The water quality of Puerto Rico still was inconsistent ten months after hurricane Maira, the inefficient recovery of water quality heavily impaired Puerto Ricans life. This case study focuses on water treatment infrastructure and how other infrastructure might influence their efficiency throughout Puerto Rico.
+
 
 ![concept_image](/puerto_rico_now/images/future_scenarios/blueroof.jpg)
 
