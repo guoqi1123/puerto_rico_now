@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2019-05-03
-image: "/puerto_rico_now/images/infrastructure/thumbnail.png"
+image: "/puerto_rico_now/images/infrastructure/concept.png"
 title:  "Water infrastructure and the relationship with other infrastructure"
 author: "Shuo Yang and Junyu Cao"
 ---
@@ -16,7 +16,7 @@ author: "Shuo Yang and Junyu Cao"
 Puerto Ricans no longer trust water after Hurricane Maria. “The water comes out of the tap white, and sometimes dark and dirty, with particles in it.” Marta Rivera said, who lives in the city of Arecibo and she blamed her illness on water contaminated by the hurricane. The water quality of Puerto Rico still was inconsistent ten months after hurricane Maira, the inefficient recovery of water quality heavily impaired Puerto Ricans life. This case study focuses on water treatment infrastructure and how other infrastructure might influence their efficiency throughout Puerto Rico.
 
 
-![concept_image](/puerto_rico_now/images/future_scenarios/blueroof.jpg)
+![concept_image](/puerto_rico_now/images/infrastructure/3600.jpg)
 
 <br/><br/>
 <span style="font-family:Helvetica; font-size:1.5em;">**1-1.In February of 2019, Congress Approved $1.5 Billion in Relief Aid**</span>
