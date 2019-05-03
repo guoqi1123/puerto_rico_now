@@ -36,8 +36,7 @@ This diagram shows how water treatment plants work. The situation of “No. 4”
 
 We select three water treatment plants of different site condition to discuss what impact the efficiency and recovery of water treatment plants during and after the hurricane.
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="700" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=890034c0-6dc9-11e9-8106-0edaf8f81e27"></iframe>
-
+<iframe frameborder="0" class="juxtapose" width="100%" height="650" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=890034c0-6dc9-11e9-8106-0edaf8f81e27"></iframe>
 The first water treatment plant is located in rural area. The main infrastructure effect the water treatment plant non-operational sectors that is the energy system and the transportation system.
 
 ![concept_image](/puerto_rico_now/images/infrastructure/SITE1 ZOOM-01 (1).jpg)
